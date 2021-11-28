@@ -1,5 +1,8 @@
 # 3D Objective Digital Stains &amp; local frequency
-3D Objective Digital Stains &amp; local frequency
+A 3D Objective Digital Stain is able to show the information structure of a DNA or RNA sequence in a graphical manner. In this case, the ODS uses the global frequency of symbols  (A, T/U, C, G) from the input sequence to calculate the local frequency of these symbols from a sliding window. In the 3D version, the overlapping values (similar sliding windows) are represented by a gradient from black to red.
+
+
+&amp; local frequency
 
 # Live demo
 https://gagniuc.github.io/3D-Objective-Digital-Stains-local-frequency/
